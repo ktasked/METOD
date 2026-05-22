@@ -1,1 +1,13 @@
-Nothing should be ignored since the changes only include document files (.docx) which are source/content files, not build artifacts, dependencies, or temporary files.
+```
+# Microsoft Office files
+*.docx
+*.doc
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.rtf
+*.odt
+*.ods
+*.odp
+```
